@@ -1,2 +1,2 @@
 # NLP_word_tokenization
-NLP: Tokenization and Embeddings Course by Udacity
+Colab workbook of **NLP: Tokenization and Embeddings Course by Udacity**
